@@ -1,0 +1,3 @@
+v1
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,lpm_mult:Mult0|mult_jgt:auto_generated|mac_mult3,
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,lpm_mult:Mult0|mult_jgt:auto_generated|mac_mult1,
